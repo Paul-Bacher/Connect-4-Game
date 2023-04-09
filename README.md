@@ -5,3 +5,4 @@ Connect 4 Game
 
 - Create architecture MCV
 - First trial
+- 
